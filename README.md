@@ -34,4 +34,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Sungjin's github stats](https://github-readme-stats.vercel.app/api?username=alstn2468&show_icons=true&hide_border=true)
+![Sungjin's github stats](https://github-readme-stats.vercel.app/api?username=comojin1994)
