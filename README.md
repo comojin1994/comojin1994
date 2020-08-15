@@ -24,7 +24,7 @@
     
     • Investment Attraction in Ministry of Science and ICT SW maestro, AI Baseball Referee, 2020
     
-    • 6th place in online AI Competition organized by NIPA, 2020    
+    • [6th place in online AI Competition organized by NIPA, 2020](http://www.dongguk.edu/mbs/kr/jsp/publicity/newsView.jsp?id=kr_090207000000&boardId=12&boardSeq=26719544&boardType=02&spage=1&command=view)
 
 - 👨‍💻 **Careers**
 
