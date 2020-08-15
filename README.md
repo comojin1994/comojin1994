@@ -6,7 +6,7 @@
 
 - 💡 **Projects**
   
-    • [Data analyzed in **"Analysis of Consumption Patterns in Korea’s 20s with Shinhan Card"**](https://www.shinhancardblog.com/812)
+    • [Data analyst in **"Analysis of Consumption Patterns in Korea’s 20s with Shinhan Card"**](https://www.shinhancardblog.com/812)
         
     • [DL model developer of **"AI Baseball Referee SMART Referee"**](https://github.com/comojin1994/SMART_Referee/blob/master/DL/README.md)
         
