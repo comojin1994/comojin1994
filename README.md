@@ -6,21 +6,39 @@
 
 - 💡 **Projects**
   
-    • Data analyzed in **"Analysis of Consumption Patterns in Korea’s 20s with Shinhan Card"**
+    • [Data analyzed in **"Analysis of Consumption Patterns in Korea’s 20s with Shinhan Card"**](https://www.shinhancardblog.com/812)
         
-    • DL model developer of **"AI Baseball Referee SMART Referee"**
+    • [DL model developer of **"AI Baseball Referee SMART Referee"**](https://github.com/comojin1994/SMART_Referee/blob/master/DL/README.md)
         
-    • DL model developer of **"AI Personal Training service Home PT"**
+    • [DL model developer of **"AI Personal Training service Home PT"**](https://github.com/comojin1994/YOLOPose)
 
 - 🏆 **Awards and Honors**
   
     • Gold Award in Dongguk SW festival, 2019
     
     • Excellent Prize in Dongguk ICT FARM Competition, 2019
+    
+    • Best Idea in Ministry of SMEs and Startups IdeaMaru, AI Baseball Referee, 2020
+    
+    • Selected for high performance computing support business organized by NIPA, 2020
+    
+    • Investment Attraction in Ministry of Science and ICT SW maestro, AI Baseball Referee, 2020
+    
+    • 6th place in online AI Competition organized by NIPA, 2020    
 
 - 👨‍💻 **Careers**
-  
+
+    • Department of Math, Stat at DGU
+    
     • Software Maestro 10th
+    
+    • BigData Farm president at DGU, 2020
+    
+    • Founder of EverySports
+    
+- **Others**
+
+    • [Presentations at NUS about **"AI Personal Training service Home PT"**](https://events.comp.nus.edu.sg/view/17028)
 
 **Languages and Tools**  
 
