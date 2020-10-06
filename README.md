@@ -14,9 +14,9 @@
 
 - 🏆 **Awards and Honors**
   
-    • Gold Award in Dongguk SW festival, 2019
+    • [Gold Award in Dongguk SW festival, 2019](https://github.com/comojin1994/comojin1994/blob/master/docs/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%20SW%20%EA%B3%B5%EB%AA%A8%EB%8C%80%EC%A0%84%20%EA%B8%88%EC%83%81.pdf)
     
-    • Excellent Prize in Dongguk ICT FARM Competition, 2019
+    • [Excellent Prize in Dongguk ICT FARM Competition, 2019](https://github.com/comojin1994/comojin1994/blob/master/docs/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%20ICT%20Farm%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EC%9A%B0%EC%88%98%EC%83%81.pdf)
     
     • Best Idea in Ministry of SMEs and Startups IdeaMaru, AI Baseball Referee, 2020
     
@@ -24,7 +24,7 @@
     
     • Investment Attraction in Ministry of Science and ICT SW maestro, AI Baseball Referee, 2020
     
-    • [6th place in online AI Competition organized by NIPA, 2020](http://www.dongguk.edu/mbs/kr/jsp/publicity/newsView.jsp?id=kr_090207000000&boardId=12&boardSeq=26719544&boardType=02&spage=1&command=view)
+    • [6th place in online AI Competition organized by NIPA, 2020](https://github.com/comojin1994/comojin1994/blob/master/docs/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%206%EC%9C%84.pdf)
 
 - 👨‍💻 **Careers**
 
@@ -39,6 +39,8 @@
 - **Others**
 
     • [Presentations at NUS about **"AI Personal Training service Home PT"**](https://events.comp.nus.edu.sg/view/17028)
+    
+    • [Article of **"AI Competition 2020"**](http://www.dongguk.edu/mbs/kr/jsp/publicity/newsView.jsp?id=kr_090207000000&boardId=12&boardSeq=26719544&boardType=02&spage=1&command=view)
 
 **Languages and Tools**  
 
