@@ -39,6 +39,7 @@
 - **Others**
 
     • [Presentations at NUS about **"AI Personal Training service Home PT"**](https://events.comp.nus.edu.sg/view/17028)
+    
     • [Article of **"AI Competition 2020"**](http://www.dongguk.edu/mbs/kr/jsp/publicity/newsView.jsp?id=kr_090207000000&boardId=12&boardSeq=26719544&boardType=02&spage=1&command=view)
 
 **Languages and Tools**  
