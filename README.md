@@ -25,8 +25,10 @@
     • Investment Attraction in Ministry of Science and ICT SW maestro, AI Baseball Referee, 2020
     
     • [6th place in online AI Competition organized by NIPA, 2020](https://github.com/comojin1994/comojin1994/blob/master/docs/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%206%EC%9C%84.pdf)
+    
+    • Grand Prize in DGU Research Project Competition in College of Science, Similarity research between Object Detection and Pose Estimation, 2020
 
-- 👨‍💻 **Careers**
+- 💻 **Careers**
 
     • Department of Math, Stat at DGU
     
