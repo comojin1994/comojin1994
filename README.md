@@ -11,6 +11,8 @@
     • [DL model developer of **"AI Baseball Referee SMART Referee"**](https://github.com/comojin1994/SMART_Referee/blob/master/DL/README.md)
         
     • [DL model developer of **"AI Personal Training service Home PT"**](https://github.com/comojin1994/YOLOPose)
+    
+    • [DL model developer of **"내 손안의 영양사, 식단함"**](https://github.com/FoodSafetyWinnerWinnerChickenDinner)
 
 - 🏆 **Awards and Honors**
   
