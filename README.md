@@ -40,7 +40,7 @@
     
 - **Others**
 
-    • [Shinhan Card **20's Consumption culture analysis project**, 2018](https://www.shinhancardblog.com/812)
+    • [Shinhan Card Big Data Summer School **20's Consumption culture analysis project**, 2018](https://www.shinhancardblog.com/812)
 
     • [Presentations at NUS about **"AI Personal Training service Home PT"**](https://events.comp.nus.edu.sg/view/17028)
     
