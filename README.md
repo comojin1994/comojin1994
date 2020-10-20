@@ -34,7 +34,7 @@
 
     • Department of Math, Stat at DGU
     
-    • Software Maestro 10th
+    • [Software Maestro 10th](https://github.com/comojin1994/comojin1994/blob/master/docs/SW%20Maestro%20수료증.pdf)
     
     • BigData Farm president at DGU, 2020
     
