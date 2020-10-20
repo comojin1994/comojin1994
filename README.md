@@ -11,6 +11,8 @@
     • [DL model developer of **"AI Baseball Referee SMART Referee"**](https://github.com/comojin1994/SMART_Referee/blob/master/DL/README.md)
         
     • [DL model developer of **"AI Personal Training service Home PT"**](https://github.com/comojin1994/YOLOPose)
+    
+    • [DL model developer of **"내 손안의 영양사, 식단함"**](https://github.com/FoodSafetyWinnerWinnerChickenDinner)
 
 - 🏆 **Awards and Honors**
   
@@ -25,8 +27,10 @@
     • Investment Attraction in Ministry of Science and ICT SW maestro, AI Baseball Referee, 2020
     
     • [6th place in online AI Competition organized by NIPA, 2020](https://github.com/comojin1994/comojin1994/blob/master/docs/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%206%EC%9C%84.pdf)
+    
+    • Grand Prize in DGU Research Project Competition in College of Science, Similarity research between Object Detection and Pose Estimation, 2020
 
-- 👨‍💻 **Careers**
+- 💻 **Careers**
 
     • Department of Math, Stat at DGU
     
@@ -41,6 +45,8 @@
     • [Presentations at NUS about **"AI Personal Training service Home PT"**](https://events.comp.nus.edu.sg/view/17028)
     
     • [Article of **"AI Competition 2020"**](http://www.dongguk.edu/mbs/kr/jsp/publicity/newsView.jsp?id=kr_090207000000&boardId=12&boardSeq=26719544&boardType=02&spage=1&command=view)
+    
+    • [Certification of **"NVIDIA DLI 2020"**](https://github.com/comojin1994/comojin1994/blob/master/docs/NVIDIA%20DLI%20Certification.pdf)
 
 **Languages and Tools**  
 
