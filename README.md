@@ -49,6 +49,8 @@
     • [Article of **"AI Competition 2020"**](http://www.dongguk.edu/mbs/kr/jsp/publicity/newsView.jsp?id=kr_090207000000&boardId=12&boardSeq=26719544&boardType=02&spage=1&command=view)
     
     • [Certification of **"NVIDIA DLI 2020"**](https://github.com/comojin1994/comojin1994/blob/master/docs/NVIDIA%20DLI%20Certification.pdf)
+    
+    • [Article of **"DGU Research Project"**](https://www.dgupress.com/news/articleView.html?idxno=40225)
 
 **Languages and Tools**  
 
