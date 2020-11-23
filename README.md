@@ -32,9 +32,9 @@
     
     • [Grand Prize in DGU Research Project Competition in College of Science, Similarity research between Object Detection and Pose Estimation, 2020](https://github.com/comojin1994/comojin1994/blob/master/docs/%EC%A0%9C15%ED%9A%8C%20%EC%9D%B4%EA%B3%BC%EB%8C%80%ED%95%99%20%EC%97%B0%EA%B5%AC%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.pdf)
     
-    • [Excellent Prize in Dongguk Startup ConTest, AI Baseball Referee, 2020]()
+    • [Excellent Prize in Dongguk Startup ConTest, AI Baseball Referee, 2020]
     
-    • [Grand Prize in 식품 안전나라 챌린지, 내 손안의 영양사, 식단함, 2020]()
+    • [Grand Prize in 식품 안전나라 챌린지, 내 손안의 영양사, 식단함, 2020]
 
 - 💻 **Careers**
 
