@@ -34,7 +34,7 @@
     
     • [Excellent Prize in Dongguk Startup ConTest, AI Baseball Referee, 2020](https://github.com/comojin1994/comojin1994/blob/master/docs/동국%202020%20창업프리미어리그%20우수상.pdf)
     
-    • Grand Prize in 식품 안전나라 챌린지, 내 손안의 영양사, 식단함, 2020
+    • [Grand Prize in 식품 안전나라 챌린지, 내 손안의 영양사, 식단함, 2020](https://github.com/comojin1994/comojin1994/blob/master/docs/식품안전나라%20챌린지%20대상.pdf)
 
 - 💻 **Careers**
 
