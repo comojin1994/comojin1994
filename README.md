@@ -76,6 +76,11 @@
         Grand Prize in 식품 안전나라 챌린지, 내 손안의 영양사, 식단함, 2020
       </a>
     </li>
+    <li>
+      <a href="">
+        Grand Prize in 인공지능 챌린지, 내 손안의 모바일 헬스장 Home PT, 2020
+      </a>
+    </li>
   </ul>
 </details>
 
