@@ -39,12 +39,12 @@
   <summary><b>🏆 Awards and Honors</b></summary>
   <ul>
     <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%20SW%20%EA%B3%B5%EB%AA%A8%EB%8C%80%EC%A0%84%20%EA%B8%88%EC%83%81.pdf">Gold Award in Dongguk SW festival, 2019
+      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%20SW%20%EA%B3%B5%EB%AA%A8%EB%8C%80%EC%A0%84%20%EA%B8%88%EC%83%81.pdf">Gold Award in Dongguk SW festival, AI Personal Training service Home PT, 2019
       </a>
     </li>
     <li>
       <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%20ICT%20Farm%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EC%9A%B0%EC%88%98%EC%83%81.pdf">
-        Excellent Prize in Dongguk ICT FARM Competition, 2019
+        Excellent Prize in Dongguk ICT FARM Competition, AI Personal Training service Home PT, 2019
       </a>
     </li>
     <li>
@@ -68,7 +68,7 @@
     </li>
     <li>
       <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/동국%202020%20창업프리미어리그%20우수상.pdf">
-        Excellent Prize in Dongguk Startup ConTest, AI Baseball Referee, 2020
+        Excellent Prize in Dongguk Startup ConTest, AI Baseball Referee SMART Referee, 2020
       </a>
     </li>
     <li>
@@ -79,6 +79,16 @@
     <li>
       <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%8E%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5%20%E1%84%83%E1%85%A2%E1%84%89%E1%85%A1%E1%86%BC.pdf">
         Grand Prize in 인공지능 챌린지, 내 손안의 모바일 헬스장 Home PT, 2020
+      </a>
+    </li>
+    <li>
+      <a href="">
+        Encouragement Award in Dongguk ICT FARM Competition, AI Baseball Referee SMART Referee, 2020
+      </a>
+    </li>
+    <li>
+      <a href="">
+        Excellent Prize in Dongguk ICT FARM Competition, 내 손안의 모바일 헬스장 Home PT, 2020
       </a>
     </li>
   </ul>
