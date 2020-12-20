@@ -9,27 +9,27 @@
   <ul>
     <li>
       <a href="https://www.shinhancardblog.com/812">
-        Data analyst in <b>"Analysis of Consumption Patterns in Korea’s 20s with Shinhan Card"</b>
+        Data analyst at <b>"Analysis of Consumption Patterns in Korea’s 20s with Shinhan Card"</b>
       </a>
     </li>
     <li>
       <a href="https://github.com/comojin1994/SMART_Referee/blob/master/DL/README.md">
-        AI Engineer in <b>"AI Baseball Referee SMART Referee"</b>
+        AI Engineer at <b>"AI Baseball Referee SMART Referee"</b>
       </a>
     </li>
     <li>
       <a href="https://github.com/comojin1994/YOLOPose">
-        AI Engineer in <b>"AI Personal Training service Home PT"</b>
+        AI Engineer at <b>"AI Personal Training service Home PT"</b>
       </a>
     </li>
     <li>
       <a href="https://github.com/FoodSafetyWinnerWinnerChickenDinner">
-        AI Engineer in <b>"내 손안의 영양사, 식단함"</b>
+        AI Engineer at <b>"내 손안의 영양사, 식단함"</b>
       </a>
     </li>
     <li>
       <a href="https://github.com/EverySports-Dev/Deep-Learning">
-        AI Engineer in <b>"내 손안의 모바일 헬스장, Home PT"</b>
+        AI Engineer at <b>"내 손안의 모바일 헬스장, Home PT"</b>
       </a>
     </li>
   </ul>
