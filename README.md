@@ -14,22 +14,22 @@
     </li>
     <li>
       <a href="https://github.com/comojin1994/SMART_Referee/blob/master/DL/README.md">
-        DL model developer of <b>"AI Baseball Referee SMART Referee"</b>
+        AI Engineer in <b>"AI Baseball Referee SMART Referee"</b>
       </a>
     </li>
     <li>
       <a href="https://github.com/comojin1994/YOLOPose">
-        DL model developer of <b>"AI Personal Training service Home PT"</b>
+        AI Engineer in <b>"AI Personal Training service Home PT"</b>
       </a>
     </li>
     <li>
       <a href="https://github.com/FoodSafetyWinnerWinnerChickenDinner">
-        DL model developer of <b>"내 손안의 영양사, 식단함"</b>
+        AI Engineer in <b>"내 손안의 영양사, 식단함"</b>
       </a>
     </li>
     <li>
       <a href="https://github.com/EverySports-Dev/Deep-Learning">
-        DL model developer of <b>"내 손안의 모바일 헬스장, Home PT"</b>
+        AI Engineer in <b>"내 손안의 모바일 헬스장, Home PT"</b>
       </a>
     </li>
   </ul>
