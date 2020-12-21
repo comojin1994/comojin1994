@@ -83,7 +83,7 @@
     </li>
     <li>
       <a href="">
-        Encouragement Award in Dongguk ICT FARM Competition, AI Baseball Referee SMART Referee, 2020
+        Excellent Prize in Dongguk ICT FARM Competition, AI Baseball Referee SMART Referee, 2020
       </a>
     </li>
     <li>
