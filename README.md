@@ -111,6 +111,9 @@
     <li>
       Founder of EverySports
     </li>
+    <li>
+      Graduate Student at Korea Univ.
+    </li>
   </ul>
 </details>
 
