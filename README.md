@@ -143,6 +143,11 @@
         Article of <b>"DGU Research Project"</b>
       </a>
     </li>
+    <li>
+      <a href="http://www.aitimes.com/news/articleView.html?idxno=134403">
+        Article of <b>"내 손안의 영양사, 식단함"</b>
+      </a>
+    </li>
   </ul>
 </details>
 
