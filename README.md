@@ -35,6 +35,11 @@
         AI Engineer at <b>"내 손안의 모바일 헬스장, Home PT"</b>
       </a>
     </li>
+    <li>
+      <a href="https://github.com/ProjectInTheClass/STOCKER-FE">
+        AI, BE Engineer at <b>"내 손안의 똑똑한 AI 펀드매니저, STOCKER"</b>
+      </a>
+    </li>
   </ul>
 </details>
 
