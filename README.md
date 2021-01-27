@@ -36,7 +36,7 @@
       </a>
     </li>
     <li>
-      <a href="https://github.com/ProjectInTheClass/STOCKER-FE">
+      <a href="https://github.com/Himelo/STOCKER">
         AI, BE Engineer at <b>"내 손안의 똑똑한 AI 펀드매니저, STOCK𝝨R"</b>
       </a>
     </li>
