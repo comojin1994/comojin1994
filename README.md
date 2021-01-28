@@ -153,6 +153,11 @@
         Article of <b>"내 손안의 영양사, 식단함"</b>
       </a>
     </li>
+    <li>
+      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/ios_certification.pdf">
+        Certification of <b>"2021 IOS App 개발 교육"</b>
+      </a>
+    </li>
   </ul>
 </details>
 
