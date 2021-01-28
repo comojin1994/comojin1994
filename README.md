@@ -31,7 +31,7 @@
       </a>
     </li>
     <li>
-      <a href="https://github.com/EverySports-Dev/Deep-Learning">
+      <a href="https://github.com/Himelo/HomePT">
         AI Engineer at <b>"내 손안의 모바일 헬스장, Home PT"</b>
       </a>
     </li>
