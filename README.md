@@ -90,12 +90,12 @@
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/2020%20Farm%20경진대회%20장려상.pdf">
         Encouragement Award in Dongguk ICT FARM Competition, AI Baseball Referee SMART Referee, 2020
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/2020%20Farm%20경진대회%20우수상.pdf">
         Excellent Prize in Dongguk ICT FARM Competition, 내 손안의 모바일 헬스장 Home PT, 2020
       </a>
     </li>
