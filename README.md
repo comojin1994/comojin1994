@@ -106,7 +106,7 @@
   <summary><b>💻 Careers</b></summary>
   <ul>
     <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/SW%20Maestro%20수료증.pdf">
+      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/학위증_영문.pdf">
         Bachelor of Science in Mathematics, Statistics at DGU
       </a>
     </li>
