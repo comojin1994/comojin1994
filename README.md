@@ -106,7 +106,9 @@
   <summary><b>💻 Careers</b></summary>
   <ul>
     <li>
-      Department of Math, Stat at DGU
+      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/SW%20Maestro%20수료증.pdf">
+        Bachelor of Science in Mathematics, Statistics at DGU
+      </a>
     </li>
     <li>
       <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/SW%20Maestro%20수료증.pdf">
