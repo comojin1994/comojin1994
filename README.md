@@ -99,6 +99,11 @@
         Excellent Prize in Dongguk ICT FARM Competition, 내 손안의 모바일 헬스장 Home PT, 2020
       </a>
     </li>
+    <li>
+      <a href="">
+        6th place in Dacon AI Vision Competition , 2021
+      </a>
+    </li>
   </ul>
 </details>
 
@@ -158,11 +163,6 @@
     <li>
       <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/ios_certification.pdf">
         Certification of <b>"2021 IOS App 개발 교육"</b>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        6th place in Dacon AI Vision Competition , 2021
       </a>
     </li>
   </ul>
