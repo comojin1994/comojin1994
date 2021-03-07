@@ -127,7 +127,9 @@
       Founder of EverySports
     </li>
     <li>
-      Graduate Student at Korea Univ.
+      <a href="http://pr.korea.ac.kr/bbs/board.php?bo_table=sub2_2&wr_id=167">
+        Graduate Student at Korea Univ.
+      </a>
     </li>
   </ul>
 </details>
