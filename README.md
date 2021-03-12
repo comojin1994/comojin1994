@@ -100,8 +100,8 @@
       </a>
     </li>
     <li>
-      <a href="">
-        6th place in Dacon AI Vision Competition , 2021
+      <a href="https://dacon.io/competitions/official/235697/talkboard/402704?dtype=recent">
+        5th place in Dacon AI Vision Competition, 2021
       </a>
     </li>
   </ul>
