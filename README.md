@@ -167,6 +167,11 @@
         Certification of <b>"2021 IOS App 개발 교육"</b>
       </a>
     </li>
+    <li>
+      <a href="https://drive.google.com/file/d/11Ij4bjhBtrfCMGSIZgM48SysQLjJ-Ygv/view?usp=sharing">
+        특허: <b>"운동 자세 평가 장치 및 그 동작 방법 (EXERCISE POSTURE EVALUATION DEVICE AND OPERATING METHOD THEREOF)"</b>
+      </a>
+    </li>
   </ul>
 </details>
 
