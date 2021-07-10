@@ -169,7 +169,7 @@
     </li>
     <li>
       <a href="https://drive.google.com/file/d/11Ij4bjhBtrfCMGSIZgM48SysQLjJ-Ygv/view?usp=sharing">
-        Patent: <b>"운동 자세 평가 장치 및 그 동작 방법 (EXERCISE POSTURE EVALUATION DEVICE AND OPERATING METHOD THEREOF)"</b>
+        Patent:<b>"운동 자세 평가 장치 및 그 동작 방법 (EXERCISE POSTURE EVALUATION DEVICE AND OPERATING METHOD THEREOF)"</b>
       </a>
     </li>
   </ul>
