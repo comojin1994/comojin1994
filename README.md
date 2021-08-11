@@ -128,7 +128,7 @@
     </li>
     <li>
       <a href="http://pr.korea.ac.kr/bbs/board.php?bo_table=sub2_2&wr_id=167">
-        Graduate Student at Korea Univ.
+        Integrated Master-Ph.D. Student at Korea Univ.
       </a>
     </li>
   </ul>
