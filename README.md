@@ -5,7 +5,7 @@
   <img src="https://badges.pufler.dev/visits/comojin1994/comojin1994?style=flat-square&color=black&logo=github">
 </a>
 
-#### 💻 Junior Developers Interested in AI.
+#### 💻 Integrated Master-Ph.D. Student at Korea Univ.
 
 <details open="open">
   <summary><b>💡 Projects</b></summary>
