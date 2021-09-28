@@ -104,6 +104,11 @@
         5th place in Dacon AI Vision Competition, 2021
       </a>
     </li>
+    <li>
+      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/제9회%20공공데이터%20활용%20비즈니스%20아이디어%20공모전%20최우수상.jpg">
+        First prize in 제 9회 공공데이터 활용 비즈니스아이디어 공모전, 제품.서비스 개발 부문, 2021
+      </a>
+    </li>
   </ul>
 </details>
 
