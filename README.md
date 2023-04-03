@@ -1,9 +1,6 @@
 ### Hi👋 My name is Sung-Jin Kim and I lived in Republic of Korea.<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌟-Portfolio-yellow)](https://github.com/comojin1994/comojin1994/files/5743371/_.pdf) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sungjin-kim-0718)](https://www.linkedin.com/in/sungjin-kim-0718) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/comojin1994)](https://www.facebook.com/comojin1994/) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sungjin_718/)](https://www.instagram.com/sungjin_718/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjal27bhardwaj@gmail.com)](mailto:s_j_kim@korea.ac.kr) [![Google Scholar](https://img.shields.io/static/v1?style=flat-square&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)](https://scholar.google.com/citations?hl=en&user=60YFOREAAAAJ&view_op=list_works&authuser=3&gmla=AJsN-F6graP2LQWXdf3DVqwUKXZlhl09kFlB_k3ly3ObANnbt8t5I-rYwhkmtj4oEtyC7792HuAC8Pm6tdAZdisowWkPdcfRTtOU5UBG-pG7Os9rb-oq8V0)
-<a href="https://github.com/comojin1994">
-  <img src="https://badges.pufler.dev/visits/comojin1994/comojin1994?style=flat-square&color=black&logo=github">
-</a>
 
 #### 💻 Ph.D. Student at Korea Univ.
 
