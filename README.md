@@ -194,3 +194,4 @@
 <!--[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comojin1994&theme=dark)-->
 ![Sungjin's github stats](https://github-readme-stats.vercel.app/api?username=comojin1994&theme=dark&show_icons=true&count_private=true)
 [![comojin1994 @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=comojin1994)](https://solved.ac/profile/comojin1994)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comojin1994&layout=compact&hide_progress=true)
