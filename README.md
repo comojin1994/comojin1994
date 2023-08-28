@@ -192,5 +192,5 @@
 <code><img height="100" src="https://user-images.githubusercontent.com/46745325/172996079-53be13f0-d88a-459a-a1ac-927047f6708d.png"></code>
 
 <!--[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comojin1994&theme=dark)-->
-![Sungjin's github stats](https://github-readme-stats.vercel.app/api?username=comojin1994&theme=dark&show_icons=true)
+![Sungjin's github stats](https://github-readme-stats.vercel.app/api?username=comojin1994&theme=dark&show_icons=true&count_private=true)
 [![comojin1994 @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=comojin1994)](https://solved.ac/profile/comojin1994)
