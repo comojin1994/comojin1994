@@ -117,6 +117,11 @@
     <li>
         종합우승-방위사업청장상 in BCI기반 표적인식 기술경진대회, 정지영상 & 동영상 부문, 2024
     </li>
+    <li>
+      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/AI경기_대상.pdf">
+        Grand Prize in AI경기 아이디어 챌린지, 어디가시나요? 우리 부모님의 편안한 대중교통 탑승 도우미, 2024
+      </a>
+    </li>
   </ul>
 </details>
 
