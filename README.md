@@ -123,7 +123,7 @@
       </a>
     </li>
     <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/이너루프 장려상.pdf">
+      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/이너루프%20장려상.pdf">
         Excellent Prize in 2025 GIF(글로벌 창업 아이디어 경진대회), 예비창업 부문, 2025
       </a>
     </li>
