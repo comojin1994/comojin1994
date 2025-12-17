@@ -122,6 +122,11 @@
         Grand Prize in AI경기 아이디어 챌린지, 어디가시나요? 우리 부모님의 편안한 대중교통 탑승 도우미, 2024
       </a>
     </li>
+    <li>
+      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/이너루프 장려상.pdf">
+        Excellent Prize in 2025 GIF(글로벌 창업 아이디어 경진대회), 예비창업 부문, 2025
+      </a>
+    </li>
   </ul>
 </details>
 
